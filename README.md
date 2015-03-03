@@ -1,6 +1,6 @@
 About
 =====
-This is a 8-bit CPU I designed.
+This is an 8-bit CPU I designed.
 
 I realise the circuit in Multisim. The CPU can run a simple program in 6116 RAM whose initial content is written by a 8052 chip.
 
